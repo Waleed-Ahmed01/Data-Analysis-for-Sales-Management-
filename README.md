@@ -1,11 +1,10 @@
 Data_Analysis Project- Sales Management
 ## Business Requirements:
 The goal was to develop a Sales dashboard for a Sales manager illustrating how much of what products have been sold, to which clients and how it has been over the past two years.The sales numbers are measured against budget to evaluate performance.
+
 ![data_dashboard](https://github.com/user-attachments/assets/93dbfd29-6cec-4881-854d-d73641567f50) 
 
 ![model_data_analysis](https://github.com/user-attachments/assets/9422bfc3-6851-4810-a7ae-0e8a9a941498)
-
-![SQL_data](https://github.com/user-attachments/assets/cb4941ea-75a8-4338-970c-07853dbaaf81)
 
 ## Data Cleaning & Transformation:
 To create the necessary data model and to fulfill the business needs the following tables were extracted using SQL.
